@@ -4,11 +4,6 @@ namespace Test1
 {
     public class Program
     {
-        private static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-
         private static bool Contains(int[] array, int number)
         {
             int length;
