@@ -1,4 +1,4 @@
- # Find if a number is contained within a sorted 2 dimensional array using Biinary search algorithm
+ # Find if a number is contained within a sorted 2 dimensional array using Binary search algorithm
 
 ### Pre-requisites
 [NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
